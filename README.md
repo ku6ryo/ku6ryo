@@ -14,6 +14,9 @@ Learning and playing with WASM / ML / WebGL / Computer vision.
 React, TypeScript, Node.js, next.js, PHP, Docker
 Working on UI development / backend integrated with RDB, file storage, batch etc.
 
+# Crypto
+Have knowledge to build NFT / custom token smart contracts.
+
 # PaaS
 AWS, Google Cloud, Netlify
 Using those 3 platforms daily basis. Current my basic strategy is building Docker images on GitHub Actions
